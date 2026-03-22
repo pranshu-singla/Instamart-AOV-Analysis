@@ -22,7 +22,7 @@ Top 20 regions based on Average Order Value (AOV)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/pranshu-singla/Instamart-Average-Order-Analysis.git
+git clone https://github.com/pranshu-singla/Instamart-AOV-Analysis.git
 ```
 2. **Install dependencies**
 ```bash
